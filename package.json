@@ -1,0 +1,21 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "iconv-lite": "^0.6.3"
+  }
+}
